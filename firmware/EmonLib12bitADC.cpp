@@ -8,7 +8,7 @@
 */
 
 
-#include "EmonLib.h"
+#include "EmonLib12bitADC.h"
 
 #include "application.h"
 
