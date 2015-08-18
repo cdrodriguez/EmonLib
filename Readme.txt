@@ -14,3 +14,5 @@ http://openenergymonitor.org/emon/
 
 Forked from https://github.com/openenergymonitor/EmonLib
 
+Version 1.1.2 adapted for 12bit ADC of Spark Core and Particle Photon
+
